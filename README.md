@@ -1,4 +1,4 @@
-Face Detection using OpenCV
+Face and Eye Detection using OpenCV
 This Python script uses OpenCV to perform real-time face detection via a webcam. It utilizes a Haar Cascade classifier to identify faces in video frames.
 
 REQUIRMENTS:
